@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dae377b5.css",
+    "main.js": "/static/js/main.2259a510.js",
+    "static/media/externalGoku.gif": "/static/media/externalGoku.dcf06063ac6cd9e20dbc.gif",
+    "static/media/backgroundtest2.gif": "/static/media/backgroundtest2.cefb428cf9cfc91bfd02.gif",
+    "static/media/discord_32x32.png": "/static/media/discord_32x32.3849aaee2674a60fd134.png",
+    "static/media/favicon.png": "/static/media/favicon.4f78a157aa728baea735.png",
+    "index.html": "/index.html",
+    "main.dae377b5.css.map": "/static/css/main.dae377b5.css.map",
+    "main.2259a510.js.map": "/static/js/main.2259a510.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae377b5.css",
+    "static/js/main.2259a510.js"
+  ]
+}
